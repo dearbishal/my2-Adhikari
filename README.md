@@ -12,7 +12,7 @@ There is a **Beach** and ocean city is a **island** there is ocean on both side 
  - List of dishes of food
     - Pizza
     - Burger
--    Tacos
--    Fries
--    Sushi 
--    Spagetti
+    - Tacos
+    - Fries
+    - Sushi 
+    - Spagetti
