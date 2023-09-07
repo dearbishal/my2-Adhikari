@@ -4,7 +4,7 @@
 
 There is a **Beach** and ocean city is a **island** there is ocean on both side of the island and it's kinda nice there.
 
-* Things I did on ocean city.
-    * Watched a sunset
-    * Went to beach
-    * Ate Nepalese food
+## Things I did on ocean city.
+1. Watched a sunset
+2. Went to beach
+3. Ate Nepalese food
