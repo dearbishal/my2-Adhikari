@@ -3,7 +3,9 @@
 #### Ocean city Maryland would be my favourite vacation place
 
 There is a **Beach** and ocean city is a **island** there is ocean on both side of the island and it's kinda nice there.
+
 ---
+
 ## Things I did on ocean city.
 1. Watched a sunset
 2. Went to beach
@@ -18,6 +20,8 @@ There is a **Beach** and ocean city is a **island** there is ocean on both side 
     - Spagetti
 
     [Please click for MyStats](MyStats.md)
+
+---
 
 ## Four Kind of Sports
 
