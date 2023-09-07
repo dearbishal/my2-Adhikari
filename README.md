@@ -3,7 +3,7 @@
 #### Ocean city Maryland would be my favourite vacation place
 
 There is a **Beach** and ocean city is a **island** there is ocean on both side of the island and it's kinda nice there.
-
+---
 ## Things I did on ocean city.
 1. Watched a sunset
 2. Went to beach
@@ -30,3 +30,19 @@ Here I will tell you the best ways to be healthy as a normal college students. I
 | Badminton          | Good for your body and   fun to play                | 4-6 hours            |
 | Soccer             | Teambuilding                                        | 5-7 hours            |
 | Hockey             | Fast Action                                         | 8-12 hours           |
+---
+## Pitchey Quotes
+
+> "If I have seen further, it is by standing on the shoulders of giants."  
+> — *Isaac Newton*
+
+> "The most incomprehensible thing about the world is that it is comprehensible."  
+> — *Albert Einstein*
+---
+
+
+
+
+
+
+
