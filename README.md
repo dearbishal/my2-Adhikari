@@ -3,3 +3,8 @@
 #### Ocean city Maryland would be my favourite vacation place
 
 There is a **Beach** and ocean city is a **island** there is ocean on both side of the island and it's kinda nice there.
+
+* Things I did on ocean city.
+    *Watched a sunset
+    *Went to beach
+    *Ate Nepalese food
