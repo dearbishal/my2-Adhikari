@@ -9,7 +9,7 @@ There is a **Beach** and ocean city is a **island** there is ocean on both side 
 2. Went to beach
 3. Ate Nepalese food
 
-* List of dishes of food
+## List of dishes of food
 *    Pizza
 *    Burger
 *    Tacos
