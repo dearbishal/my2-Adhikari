@@ -18,3 +18,15 @@ There is a **Beach** and ocean city is a **island** there is ocean on both side 
     - Spagetti
 
     [Please click for MyStats](MyStats.md)
+
+## Four Kind of Sports
+
+Here I will tell you the best ways to be healthy as a normal college students. I have included indoor sports like pool,badminton and outdoor sports like Soccer and hockey.
+
+
+| Sport Name         | Reason for Recommendation                           | Average Weekly Hours |
+|--------------------|-----------------------------------------------------|----------------------|
+| Pool               | Cool way to hangout with friends                    | 2-3 hours            |
+| Badminton          | Good for your body and   fun to play                | 4-6 hours            |
+| Soccer             | Teambuilding                                        | 5-7 hours            |
+| Hockey             | Fast Action                                         | 8-12 hours           |
