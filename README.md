@@ -16,3 +16,5 @@ There is a **Beach** and ocean city is a **island** there is ocean on both side 
     - Fries
     - Sushi 
     - Spagetti
+
+    [Please click for MyStats](Mystats.md)
